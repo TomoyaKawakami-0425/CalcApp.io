@@ -19,4 +19,5 @@
 
 
 ▪️Javascript
+⚫︎class宣言
 
